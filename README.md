@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### `npm i`
+
+For Install all dependencies
+
 ### `npm run dev`
 
 Runs the app in the development mode.\
